@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anteweaval.github.io/sitemap.html.gz
+Sitemap: https://anteweaval.github.io/app/sitemap.html.gz
+Sitemap: https://anteweaval.github.io/assets/sitemap.html.gz
+Sitemap: https://anteweaval.github.io/css/sitemap.html.gz
+Sitemap: https://anteweaval.github.io/includes/sitemap.html.gz
+Sitemap: https://anteweaval.github.io/item/sitemap.html.gz
+Sitemap: https://anteweaval.github.io/src/sitemap.html.gz
